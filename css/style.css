@@ -1,0 +1,53 @@
+h1, h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#dv1 {
+    background: white;
+    border-radius: 5px;
+    padding-left: 200px;
+    overflow: auto;
+    height: 65px;
+    padding-top: 25px;
+}
+
+.oh {
+    text-align: right;
+    display: inline;
+    background: crimson;
+    padding: 30px;
+}
+
+h4 {
+    position: relative;
+    left: 30%;
+    text-align: right;
+    display: inline;
+    margin: 5px;
+}
+
+a {
+    color: black;
+    text-decoration: none; /* no underline */
+  }
+.lb {
+    border-right: 2px solid gray;
+}
+
+/*This section will be the main css for the content of the Main Page*/
+
+.dv2 {
+    overflow: auto;
+    margin-top: 50px;
+    width: 960px;
+    margin-left: 200px;
+    background: white;
+}
+.bb {
+    border-bottom: 2px solid grey;
+    padding-left: 20px;
+    padding-bottom: 35px;
+}
