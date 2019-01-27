@@ -7,7 +7,6 @@ p {
     line-height: 0.75cm;
     padding: 10px;
 }
-
 #dv1 {
     background: white;
     border-radius: 5px;
@@ -16,14 +15,12 @@ p {
     height: 65px;
     padding-top: 25px;
 }
-
 .oh {
     text-align: right;
     display: inline;
     background: crimson;
     padding: 30px;
 }
-
 h4 {
     position: relative;
     left: 28%;
@@ -31,7 +28,6 @@ h4 {
     display: inline;
     margin: 5px;
 }
-
 a {
     color: black;
     text-decoration: none; /* no underline */
