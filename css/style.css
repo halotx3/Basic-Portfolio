@@ -39,10 +39,9 @@ a {
 .lb {
     border-right: 2px solid gray;
 }
-
 /*This section will be the main css for the content of the Main Page*/
-
 .dv2 {
+    position: relative;
     overflow: auto;
     margin-top: 100px;
     width: 960px;
@@ -55,25 +54,16 @@ a {
     padding-left: 20px;
     padding-bottom: 15px;
 }
-img {
+.img {
     border: 1px solid gray;
     float: left;
     display: inline;
     margin-right: 20px;
     margin-left: 20px;
 }
-
 /* This is the CSS for the footer to function*/
 html, body {
     height: 100%;
-}
-.dw {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-}
-.ft {
-    flex: 1;
 }
 .df {
     position: fixed;

@@ -12,3 +12,17 @@
 .sp {
     margin: 20px;
 }
+#i1 {
+    position: relative;
+    left: 2%;
+    display: inline;
+}
+.word {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
