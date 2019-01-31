@@ -21,7 +21,7 @@ label {
 }
 /* CSS for the submit button*/
 input[type=submit] {
-    background-color: #4CAF50;
+    background-color: maroon;
     color: white;
     margin-bottom: 30px;
     margin-left: 35px;
@@ -31,5 +31,5 @@ input[type=submit] {
     cursor: pointer;
 }
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: red;
 }
